@@ -1,0 +1,28 @@
+{
+    "name": "zebracss-config",
+    "version": "0.0.1",
+    "description": "ZebraCSS config",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ZebraCSS/zebracss-config.git"
+    },
+    "keywords": [
+        "css",
+        "less",
+        "components",
+        "css-components",
+        "zebracss",
+        "style",
+		"config",
+		"csscomb"
+    ],
+    "author": {
+        "name": "Julia Rechkunova",
+        "email": "julia.rechkunova@gmail.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ZebraCSS/zebracss-config/issues"
+    },
+    "homepage": "https://github.com/ZebraCSS/zebracss-config"
+}
