@@ -4,8 +4,7 @@ var gulp = require('gulp'),
 	csscomb = require('gulp-csscomb'),
 	path = require('path');
 
-var cssCombConfig = path.join(__dirname, 'node_modules',
-	'zebracss-config', '.csscomb.json');
+var cssCombConfig = path.join(__dirname, '.csscomb.json');
 
 console.log(cssCombConfig);
 
